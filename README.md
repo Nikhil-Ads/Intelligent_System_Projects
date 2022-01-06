@@ -31,7 +31,7 @@ To view a particular project, please open the folder. If you wish to run the pro
 
 Finally, it record their performance and plots confusion matrices of training and testing sets, on the MNIST dataset. It is a more generic implementation.
 
-8. Autoencoder as a pretext for classification (Optimized) - It trains a neural network model for classification based on an autoencoder trained as a pretext problem. It then trains and compares two models:
+9. Autoencoder as a pretext for classification (Optimized) - It trains a neural network model for classification based on an autoencoder trained as a pretext problem. It then trains and compares two models:
 
 	a. Training just the output layer, with hidden layer as autoencoder.
 
